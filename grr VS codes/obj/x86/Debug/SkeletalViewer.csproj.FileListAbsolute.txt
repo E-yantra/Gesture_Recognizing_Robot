@@ -1,0 +1,33 @@
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.exe.config
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.exe
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.pdb
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.g.resources
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.exe.config
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.exe
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.pdb
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.g.resources
+M:\spark V\project\CS\bin\Debug\SkeletalViewer.pdb
+M:\spark V\project\CS\bin\Debug\SkeletalViewer.exe
+M:\spark V\project\CS\bin\Debug\SkeletalViewer.exe.config
+M:\spark V\project\CS\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\spark V\project\CS\obj\x86\Debug\MainWindow.baml
+M:\spark V\project\CS\obj\x86\Debug\MainWindow.g.cs
+M:\spark V\project\CS\obj\x86\Debug\App.g.cs
+M:\spark V\project\CS\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+M:\spark V\project\CS\obj\x86\Debug\SkeletalViewer.g.resources
+M:\spark V\project\CS\obj\x86\Debug\SkeletalViewer.exe
+M:\spark V\project\CS\obj\x86\Debug\SkeletalViewer.pdb
