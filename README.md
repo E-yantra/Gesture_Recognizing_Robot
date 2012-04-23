@@ -6,10 +6,10 @@ B.E. Project Guidance
 Students
 --------
 
-Prerna Bakhru
-Reshma Ramanan
-Bhagyashree Patil
-Chandni Kateja
+* Prerna Bakhru
+* Reshma Ramanan
+* Bhagyashree Patil
+* Chandni Kateja
 
 Introduction
 ============
